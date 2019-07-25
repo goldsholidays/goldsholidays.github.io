@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "reservations.html",
+    "currentPage": "goldsholidays.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 118,
+    "uniqCompNum": 121,
     "versionPublish": "4.10.6",
     "screenshot": "screenshot.png"
   },
@@ -41,7 +41,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "FOR RESERVATIONS",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -654,7 +654,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "MORE INFO",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1821,7 +1821,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Golds System",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2382,7 +2382,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "services",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -4364,7 +4364,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "PRICES",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -5079,7 +5079,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "TRIPS",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -5792,7 +5792,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "ABOUT US",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -6453,7 +6453,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "OWNER",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
